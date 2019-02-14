@@ -1,3 +1,6 @@
+Version 1.1.0.2 - 14 Feb 2019
+ - Recompiled for KSP 1.6.1
+
 Version 1.1.0.1 - 4 Jun 2018
  - Correct settings file path names
  - Clean up disallowed constructor var assignments due to new Unity version.
